@@ -1,6 +1,6 @@
 # INSTITUTO TECNOLOGICO DE NUEVO LARED
 
-![Logo]()
+![Logo](http://www.itnl.edu.mx/templates/itnl_tecnm/images/logo-628132927.png)
 
 ## Topicos avanados de Programacion
 
