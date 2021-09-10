@@ -2,7 +2,7 @@
 
 ![Logo](http://www.itnl.edu.mx/templates/itnl_tecnm/images/logo-628132927.png)
 
-## Topicos avanados de Programacion
+## Topicos avanzados de Programacion
 
 **Nombre**: *Luis Eduardo Mejia Ruiz* 
 
